@@ -35,17 +35,16 @@
   No.|Material|Tutorial
   -----|-----|-----
   1.|Setup _**(please do this before the workshop)**_ :point_right:|*Coming Soon*
-  2.|Hello World|*Coming Soon*
-  3.|Digital Output|*Coming Soon*
-  4.|Analog Output|*Coming Soon*
-  5.|Digital Input|*Coming Soon*
-  6.|Analog Input|*Coming Soon*
-  7.|Analog & Digital I/O|*Coming Soon*
-  8.|ESP8266 WiFi Scanner|*Coming Soon*
-  9.|Connecting ESP8266 to A WiFi Network|*Coming Soon*
-  10.|ESP8266 Web Server|*Coming Soon*
-  11.|ESP8266 & Blynk|*Coming Soon*
-  12.|ESP8266 & Thinger.io|*Coming Soon*
+  2.|Hello World!|*Coming Soon*
+  3.|Digital & Analog Output|*Coming Soon*
+  4.|Digital & Analog Input|*Coming Soon*
+  5.|Analog & Digital I/O|*Coming Soon*
+  6.|ESP8266 & DHT11 Sensor|*Coming Soon*
+  7.|ESP8266 WiFi Scanner|*Coming Soon*
+  8.|Connecting ESP8266 to A WiFi Network|*Coming Soon*
+  9.|ESP8266 Web Server|*Coming Soon*
+  10.|ESP8266 & Blynk|*Coming Soon*
+  11.|ESP8266 & Thinger.io|*Coming Soon*
 
   :exclamation: _**Note.**_ Please read & do the _**first material**_ before the workshop is being held.
 
