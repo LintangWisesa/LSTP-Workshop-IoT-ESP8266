@@ -34,7 +34,7 @@
 
   No.|Material|Tutorial
   -----|-----|-----
-  0.|Setup _**(please do this before the workshop)**_ :point_right:|*Coming Soon*
+  0.|Setup _**(please do this before the workshop)**_ :point_right:|*__[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/0_Setup)__*
   1.|Hello World!|*Coming Soon*
   2.|Digital & Analog Output|*Coming Soon*
   3.|Digital & Analog Input|*Coming Soon*
