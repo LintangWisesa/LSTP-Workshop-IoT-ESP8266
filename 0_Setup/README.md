@@ -59,7 +59,7 @@
 
   No.|Material|Tutorial
   -----|-----|-----
-  0.|Initial Setup|*[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/0_Setup)*
+  0.|Initial Setup|*__[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/0_Setup)__*
   1.|Hello World!|*Coming Soon*
   2.|Digital & Analog Output|*Coming Soon*
   3.|Digital & Analog Input|*Coming Soon*
