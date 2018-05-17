@@ -24,20 +24,27 @@
 
 ## **What Will You Get :gift:**
 
-  - :wrench: :hammer: ESP8266 IoT mini starter kit.
-  - :hamburger: :fries: Snack & lunch.
-  - :scroll: :mortar_board: Digital certificate.
+  - :wrench: ESP8266 IoT mini starter kit.
+  - :hamburger: Snack & lunch.
+  - :mortar_board: Digital certificate.
 
 #
 
 ## **What Will You Learn :memo:**
 
-  No.|Title|Tutorial
+  No.|Material|Tutorial
   -----|-----|-----
-  1.|Setup _**(please do this before the workshop)**_ :point_right:|*Coming Soon*
-  2.|Hello World|*Coming Soon*
-  3.|ESP8266 WiFi Scanner|*Coming Soon*
-  4.|Connecting ESP8266 to A WiFi Network|*Coming Soon*
+  0.|Setup _**(please do this before the workshop)**_ :point_right:|*Coming Soon*
+  1.|Hello World!|*Coming Soon*
+  2.|Digital & Analog Output|*Coming Soon*
+  3.|Digital & Analog Input|*Coming Soon*
+  4.|Analog & Digital I/O|*Coming Soon*
+  5.|ESP8266 & DHT11 Sensor|*Coming Soon*
+  6.|ESP8266 WiFi Scanner|*Coming Soon*
+  7.|Connecting ESP8266 to A WiFi Network|*Coming Soon*
+  8.|ESP8266 Web Server|*Coming Soon*
+  9.|ESP8266 & Blynk|*Coming Soon*
+  10.|ESP8266 & Thinger.io|*Coming Soon*
 
   :exclamation: _**Note.**_ Please read & do the _**first material**_ before the workshop is being held.
 
