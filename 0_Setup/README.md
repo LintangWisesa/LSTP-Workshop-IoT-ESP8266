@@ -51,7 +51,7 @@
 
   - __Done & you're ready to hack with ESP8266!__ :ballot_box_with_check:
 
-  - __Next material: :fast_forward: *[Hello World!]()*__ 
+  - __Next material: :fast_forward: *[Hello World!](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/1_Hello_World)*__ 
 
 #
 
@@ -60,7 +60,7 @@
   No.|Material|Tutorial
   -----|-----|-----
   0.|Initial Setup|*__[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/0_Setup)__*
-  1.|Hello World!|*Coming Soon*
+  1.|Hello World!|_**[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/1_Hello_World)**_
   2.|Digital & Analog Output|*Coming Soon*
   3.|Digital & Analog Input|*Coming Soon*
   4.|Analog & Digital I/O|*Coming Soon*

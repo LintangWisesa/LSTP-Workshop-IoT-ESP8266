@@ -28,7 +28,7 @@
         delay(1000);
       }
       ```
-  4. Click __*Upload :arrow_right:*__ button, wait until uploading process done. Click __*Serial Monitor :mag_right:*__ button, set baudrate on _**115200 baud**_ and you will see these kind of messages on Serial Monitor:
+  4. Click __*Upload*__ :arrow_right: button, wait until uploading process done. Click __*Serial Monitor*__ :mag_right: button, set baudrate on _**115200 baud**_ and you will see these kind of messages on Serial Monitor:
 
       ![Lintang_Serial_Monitor](https://1.bp.blogspot.com/-RmEiAnUMH4U/Wv0zUX-cggI/AAAAAAAAEJo/17BCYt-8AwAPBpiZjEf9--hY8_On-tlWgCLcBGAs/s640/z6.png)
 
@@ -43,7 +43,7 @@
   No.|Material|Tutorial
   -----|-----|-----
   0.|Initial Setup|*__[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/0_Setup)__*
-  1.|Hello World!|*Coming Soon*
+  1.|Hello World!|_**[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/1_Hello_World)**_
   2.|Digital & Analog Output|*Coming Soon*
   3.|Digital & Analog Input|*Coming Soon*
   4.|Analog & Digital I/O|*Coming Soon*
