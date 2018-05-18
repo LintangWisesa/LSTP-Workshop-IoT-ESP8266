@@ -35,13 +35,13 @@
 
   1. **Schematics :wrench: :hammer:**
 
-      Assemble your parts by following the schematics below.
+      Assemble your parts as the schematics below.
 
       ![Analog_Output](https://2.bp.blogspot.com/-BqdZrOo1Ykk/Wv55xRn2apI/AAAAAAAAEKM/js1mpV3aL_kJF2O1yC5_zK-pDR2kk1iKQCLcBGAs/s640/a1.png)
 
   2. **Sketch :clipboard:**
       
-      Open Arduino IDE, type then upload the sketch below.
+      Open Arduino IDE, type & upload the sketch below.
 
       ```c++
       void setup(){
