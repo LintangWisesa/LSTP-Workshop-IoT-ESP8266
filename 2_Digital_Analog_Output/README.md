@@ -8,13 +8,13 @@
 
   1. **Schematics :wrench: :hammer:**
       
-      Assemble your parts by following the schematics below.
+      Assemble your parts as the schematics below.
       
       ![Digital_Output](https://1.bp.blogspot.com/-zrOyo9U3rqE/Wv55xcXGGOI/AAAAAAAAEKQ/9-0T0Hp73xU5WmoP2otdS6mQU8oC8SfcgCLcBGAs/s640/a2.png)
 
   2. **Sketch :clipboard:**
       
-      Open Arduino IDE, type then upload the sketch below.
+      Open Arduino IDE, type & upload the sketch below.
 
       ```c++
       void setup(){
