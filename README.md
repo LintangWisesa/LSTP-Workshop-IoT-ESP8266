@@ -36,15 +36,15 @@
   -----|-----|-----
   0.|Setup _**(please do this before the workshop)**_ :point_right:|*__[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/0_Setup)__*
   1.|Hello World!|*__[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/1_Hello_World)__*
-  2.|Digital & Analog Output|*Coming Soon*
-  3.|Digital & Analog Input|*Coming Soon*
-  4.|Analog & Digital I/O|*Coming Soon*
-  5.|ESP8266 & DHT11 Sensor|*Coming Soon*
-  6.|ESP8266 WiFi Scanner|*Coming Soon*
-  7.|Connecting ESP8266 to A WiFi Network|*Coming Soon*
-  8.|ESP8266 Web Server|*Coming Soon*
-  9.|ESP8266 & Blynk|*Coming Soon*
-  10.|ESP8266 & Thinger.io|*Coming Soon*
+  2.|Digital & Analog Output|_**[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/2_Digital_Analog_Output)**_
+  3.|Digital & Analog Input|_**[click here]()**_
+  4.|Analog & Digital I/O|_**[click here]()**_
+  5.|ESP8266 & DHT11 Sensor|_**[click here]()**_
+  6.|ESP8266 WiFi Scanner|_**[click here]()**_
+  7.|Connecting ESP8266 to A WiFi Network|_**[click here]()**_
+  8.|ESP8266 Web Server|_**[click here]()**_
+  9.|ESP8266 & Blynk|_**[click here]()**_
+  10.|ESP8266 & Thinger.io|_**[click here]()**_
 
   :exclamation: _**Note.**_ Please read & do the _**first material**_ before the workshop is being held.
 

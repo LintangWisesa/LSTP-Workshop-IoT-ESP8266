@@ -7,11 +7,15 @@
 ## **2a. Digital Output :heavy_check_mark:**
 
   1. **Schematics :wrench: :hammer:**
-  
+      
+      Assemble your parts by following the schematics below.
+      
       ![Digital_Output](https://1.bp.blogspot.com/-zrOyo9U3rqE/Wv55xcXGGOI/AAAAAAAAEKQ/9-0T0Hp73xU5WmoP2otdS6mQU8oC8SfcgCLcBGAs/s640/a2.png)
 
   2. **Sketch :clipboard:**
       
+      Open Arduino IDE, type then upload the sketch below.
+
       ```c++
       void setup(){
         pinMode(D5, OUTPUT);
@@ -30,11 +34,15 @@
 ## **2a. Analog Output :heavy_check_mark:**
 
   1. **Schematics :wrench: :hammer:**
-  
+
+      Assemble your parts by following the schematics below.
+
       ![Analog_Output](https://2.bp.blogspot.com/-BqdZrOo1Ykk/Wv55xRn2apI/AAAAAAAAEKM/js1mpV3aL_kJF2O1yC5_zK-pDR2kk1iKQCLcBGAs/s640/a1.png)
 
   2. **Sketch :clipboard:**
       
+      Open Arduino IDE, type then upload the sketch below.
+
       ```c++
       void setup(){
         pinMode(D5, OUTPUT);
@@ -60,15 +68,15 @@
   -----|-----|-----
   0.|Initial Setup|*__[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/0_Setup)__*
   1.|Hello World!|_**[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/1_Hello_World)**_
-  2.|Digital & Analog Output|*Coming Soon*
-  3.|Digital & Analog Input|*Coming Soon*
-  4.|Analog & Digital I/O|*Coming Soon*
-  5.|ESP8266 & DHT11 Sensor|*Coming Soon*
-  6.|ESP8266 WiFi Scanner|*Coming Soon*
-  7.|Connecting ESP8266 to A WiFi Network|*Coming Soon*
-  8.|ESP8266 Web Server|*Coming Soon*
-  9.|ESP8266 & Blynk|*Coming Soon*
-  10.|ESP8266 & Thinger.io|*Coming Soon*
+  2.|Digital & Analog Output|_**[click here](https://github.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/tree/master/2_Digital_Analog_Output)**_
+  3.|Digital & Analog Input|_**[click here]()**_
+  4.|Analog & Digital I/O|_**[click here]()**_
+  5.|ESP8266 & DHT11 Sensor|_**[click here]()**_
+  6.|ESP8266 WiFi Scanner|_**[click here]()**_
+  7.|Connecting ESP8266 to A WiFi Network|_**[click here]()**_
+  8.|ESP8266 Web Server|_**[click here]()**_
+  9.|ESP8266 & Blynk|_**[click here]()**_
+  10.|ESP8266 & Thinger.io|_**[click here]()**_
 
 #
 
