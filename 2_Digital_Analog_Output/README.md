@@ -16,18 +16,38 @@
       
       Open Arduino IDE, type & upload the sketch below.
 
-      ```c++
-      void setup(){
-        pinMode(D5, OUTPUT);
-      }
+      - Blinking an LED
 
-      void loop(){
-        digitalWrite(D5, HIGH);
-        delay(1000);
-        digitalWrite(D5, LOW);
-        delay(1000);  
-      }
-      ```
+        ```c++
+        void setup(){
+          pinMode(D5, OUTPUT);
+        }
+
+        void loop(){
+          digitalWrite(D5, HIGH);
+          delay(1000);
+          digitalWrite(D5, LOW);
+          delay(1000);  
+        }
+        ```
+
+      - Blinking an LED with LED's status on Serial Monitor
+
+        ```c++
+        void setup(){
+          Serial.begin(115200);
+          pinMode(D5, OUTPUT);
+        }
+
+        void loop(){
+          digitalWrite(D5, HIGH);
+          Serial.println('Lampu Nyala');
+          delay(1000);
+          digitalWrite(D5, LOW);
+          Serial.println('Lampu Mati');
+          delay(1000);  
+        }
+        ```
 
   - __Done!__ :ballot_box_with_check:
 
@@ -45,18 +65,38 @@
       
       Open Arduino IDE, type & upload the sketch below.
 
-      ```c++
-      void setup(){
-        pinMode(D5, OUTPUT);
-      }
+      - Dimming an LED
 
-      void loop(){
-        for(int i=0; i<256; i++){
-          analogWrite(D5, i);
-          delay(10);
+        ```c++
+        void setup(){
+          pinMode(D5, OUTPUT);
         }
-      }
-      ```
+
+        void loop(){
+          for(int i=0; i<256; i++){
+            analogWrite(D5, i);
+            delay(10);
+          }
+        }
+        ```
+      
+      - Dimming an LED with LED's status on Serial Monitor
+
+        ```c++
+        void setup(){
+          Serial.begin(115200);
+          pinMode(D5, OUTPUT);
+        }
+
+        void loop(){
+          Serial.println('');
+          for(int i=0; i<256; i++){
+            analogWrite(D5, i);
+            Serial.print('#');
+            delay(10);
+          }
+        }
+        ```
 
   - __Done!__ :ballot_box_with_check:
 
