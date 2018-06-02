@@ -53,7 +53,7 @@
 
 #
 
-## **2a. Analog Output :heavy_check_mark:**
+## **2b. Analog Output :heavy_check_mark:**
 
   1. **Schematics :wrench: :hammer:**
 
