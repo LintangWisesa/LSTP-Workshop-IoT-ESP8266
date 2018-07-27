@@ -10,7 +10,7 @@
       
       Assemble your parts as the schematics below.
       
-      ![Digital_Input](https://raw.githubusercontent.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/master/3_Digital_Analog_Input/3_Digital_Out.png)
+      ![Digital_Input](https://raw.githubusercontent.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/master/3_Digital_Analog_Input/3_Digital_In.png)
 
   2. **Sketch :clipboard:**
       
@@ -40,7 +40,7 @@
 
       Assemble your parts as the schematics below.
 
-      ![Analog_Input](https://raw.githubusercontent.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/master/3_Digital_Analog_Input/3_Analog_Out.png)
+      ![Analog_Input](https://raw.githubusercontent.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/master/3_Digital_Analog_Input/3_Analog_In.png)
 
   2. **Sketch :clipboard:**
       
