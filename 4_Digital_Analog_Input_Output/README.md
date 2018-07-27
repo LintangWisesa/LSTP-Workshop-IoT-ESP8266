@@ -10,7 +10,7 @@
       
       Assemble your parts as the schematics below.
       
-      ![Digital_IO](https://4.bp.blogspot.com/-coOOsp5fUd8/WxNuyzNc9oI/AAAAAAAAELs/wczYa-mRpgULXchAkIO9Pdwd7ztWBw9ZQCLcBGAs/s640/c1.png)
+      ![Digital_IO](https://raw.githubusercontent.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/master/4_Digital_Analog_Input_Output/4_Digital_InOut.png)
 
   2. **Sketch :clipboard:**
       
@@ -39,7 +39,7 @@
 
       Assemble your parts as the schematics below.
 
-      ![Analog_IO](https://1.bp.blogspot.com/-AHvi5SSZ_T0/WxNuy1fptaI/AAAAAAAAELw/vUXklrpl5fYS7QQG5Se4nrXzUtgTKFSgACLcBGAs/s640/c2.png)
+      ![Analog_IO](https://raw.githubusercontent.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/master/4_Digital_Analog_Input_Output/4_Analog_InOut.png)
 
   2. **Sketch :clipboard:**
       
