@@ -10,7 +10,7 @@ _**LDR (Light Dependent Resistor)**_ is an electronic module whose resistivity i
       
       Assemble your parts as the schematics below.
       
-      ![ESP8266 LDR](https://raw.githubusercontent.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/master/4_Digital_Analog_Input_Output/4_Digital_InOut.png)
+      ![ESP8266 LDR](https://raw.githubusercontent.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/master/5_ESP8266_LDR/ESP8266_LDR.png)
 
   2. **Sketch :clipboard:**
       
