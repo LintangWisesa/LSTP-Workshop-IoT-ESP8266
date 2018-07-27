@@ -42,9 +42,8 @@
   5.|ESP8266 & DHT11 Sensor|_**[click here]()**_
   6.|ESP8266 WiFi Scanner|_**[click here]()**_
   7.|Connecting ESP8266 to A WiFi Network|_**[click here]()**_
-  8.|ESP8266 Web Server|_**[click here]()**_
-  9.|ESP8266 & Blynk|_**[click here]()**_
-  10.|ESP8266 & Thinger.io|_**[click here]()**_
+  8.|ESP8266 & Blynk|_**[click here]()**_
+  9.|ESP8266 & Thinger.io|_**[click here]()**_
 
   :exclamation: _**Note.**_ Please read & do the _**first material**_ before the workshop is being held.
 

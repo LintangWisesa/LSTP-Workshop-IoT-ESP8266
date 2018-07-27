@@ -2,64 +2,37 @@
 
 ![Lintang_LSTP](https://3.bp.blogspot.com/-8QBGUwbf2FA/WvvQN_M9L4I/AAAAAAAAEHk/QGSQSxcFuioZCIhcIpBkBtdzK4JKbmJawCLcBGAs/s400/default.png)
 
-# *__4. Digital & Analog Input/Output__*
+# *__7. Connecting ESP8266 to a WiFi Network__*
 
-## **4a. Digital Input/Output :heavy_check_mark:**
-
-  1. **Schematics :wrench: :hammer:**
+  **Sketch :clipboard:**
       
-      Assemble your parts as the schematics below.
-      
-      ![Digital_IO](https://raw.githubusercontent.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/master/4_Digital_Analog_Input_Output/4_Digital_InOut.png)
+  Open Arduino IDE, type & upload the sketch below. Then open its Serial Monitor on 115200 baudrate per second, to see the result.
 
-  2. **Sketch :clipboard:**
-      
-      Open Arduino IDE, type & upload the sketch below.
-
-      - Control LED ON/OFF using push button
-
-        ```c++
-        void setup(){
-          pinMode(D3, INPUT);
-          pinMode(D5, OUTPUT);
-        }
-
-        void loop(){
-          digitalWrite(D5, digitalRead(D3));  
-        }
-        ```
+  ```c++
+  #include "ESP8266WiFi.h" 
+ 
+  void setup() {
+    Serial.begin(115200);
+  } 
+  
+  void loop() {
+    delay(2000);
+    WiFi.disconnect();
+    Serial.println("Mulai menghubungkan");
+    WiFi.begin("nama_wifi","password_wifi");
+    while((!(WiFi.status() == WL_CONNECTED))){
+      delay(300);
+      Serial.print("...");
+    }
+    Serial.println(WiFi.status());
+    Serial.println("Terhubung");
+    Serial.println("");
+  }
+  ```
 
   - __Done!__ :ballot_box_with_check:
 
-#
-
-## **4b. Analog Input/Output :heavy_check_mark:**
-
-  1. **Schematics :wrench: :hammer:**
-
-      Assemble your parts as the schematics below.
-
-      ![Analog_IO](https://raw.githubusercontent.com/LintangWisesa/LSTP-Workshop-IoT-ESP8266/master/4_Digital_Analog_Input_Output/4_Analog_InOut.png)
-
-  2. **Sketch :clipboard:**
-      
-      Open Arduino IDE, type & upload the sketch below.
-
-      - Control LED lightness using potentiometer
-
-        ```c++
-        void setup(){
-          pinMode(D5, OUTPUT);
-        }
-
-        void loop(){
-          analogWrite(D5, analogRead(A0)/4);
-        }
-        ```
-      
-  - __Done!__ :ballot_box_with_check:
-
-  - __Next material: :fast_forward: *[ESP8266 & DHT11 Sensor]()*__ 
+  - __Next material: :fast_forward: *[ESP8266 & Blynk]()*__ 
 
 #
 
