@@ -49,7 +49,6 @@ To build this project, you need the following items:
 - Open Arduino IDE then copy sketch below. Insert your WiFi SSID, WiFi password & Blynk Auth Token. Make sure you have chosen the right option for **_Board_** and **_Port_** under **_Tools_** menu. Upload it!
 
     ```c++
-    #define BLYNK_PRINT SerialUSB
     #include <ESP8266WiFi.h>
     #include <BlynkSimpleEsp8266.h>
 
@@ -58,7 +57,6 @@ To build this project, you need the following items:
     char pass[] = "Your_WiFi_Password";
 
     void setup(){
-        SerialUSB.begin(9600);
         Blynk.begin(auth, ssid, pass);
     }
 
